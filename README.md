@@ -2,7 +2,7 @@
 
 **:warning: Bu proje şaka amaçlıdır ama yer yer işe yarayabilir. :warning:**
 
-Aslında bu proje Fatih Kadir Akın'ın [dahi](https://github.com/f/dahi) projesinden esinlenerek ortaya çıkmıştır. Bu da şaka amaçlıdır.
+Aslında bu proje Fatih Kadir Akın'ın [dahi](https://github.com/f/dahi) projesinden esinlenerek ortaya çıkmıştır. 
 
 ---
 
