@@ -1,6 +1,6 @@
 {
   "name": "sey-ayraci",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Şey zamirinin ayırmaya yarayan paket",
   "main": "index.js",
   "scripts": {

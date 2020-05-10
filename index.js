@@ -1,6 +1,6 @@
 module.exports = {
     fix(arg) {
-        let fixed = arg.replace("şey", " şey");
+        let fixed = arg.split('şey').join(' şey');
         return fixed;
     }
 }

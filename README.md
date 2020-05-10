@@ -6,7 +6,7 @@ Aslında bu proje Fatih Kadir Akın'ın [dahi](https://github.com/f/dahi) projes
 
 ---
 
-Şey zamirinin ayırmaya yarayan proje
+Şey zamirinin ayırmaya yaramaktadır.
 
 ### Yükleme
 
@@ -19,7 +19,7 @@ npm install sey-ayraci
 ```js
 const sey = require('sey-ayraci')
 
-sey.fix('Herşey yolunda görünsede birşeyler eksik gibi.') # => 'Her şey yolunda görünsede bir şeyler eksik gibi.'
+sey.fix('Herşey yolunda görünse de birşeyler eksik gibi.') # => 'Her şey yolunda görünse de bir şeyler eksik gibi.'
 ```
 
 ### Katkı ve Test

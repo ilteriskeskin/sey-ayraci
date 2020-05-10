@@ -20,5 +20,6 @@ test('Birşey')
 test('Herşey vatan için.')
 test('Şeyma Subaşı')
 test("Herhangibirşey iste.")
+test("Birşey herşey")
 
 console.log(`\nToplam ${totalTest} test çalıştı`);
