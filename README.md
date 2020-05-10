@@ -19,7 +19,7 @@ npm install sey-ayraci
 ```js
 const sey = require('sey-ayraci')
 
-sey.fix('Herşey yolunda görünse de birşeyler eksik gibi.') # => 'Her şey yolunda görünse de bir şeyler eksik gibi.'
+sey.fix('Herşey birşey çokşey') # => 'Her şey bir şey çok şey'
 ```
 
 ### Katkı ve Test
