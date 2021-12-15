@@ -8,7 +8,6 @@ Bu proje rootcf tarafından, Ali İlteriş Keskin([ilteriskeskin](https://github
 
 ### Kullanım
 ```
-let ornek = "Herşey güzel olacak";
 split(ornek);
 ```
 
