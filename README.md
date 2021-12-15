@@ -10,8 +10,7 @@ Aslında bu proje Fatih Kadir Akın'ın [dahi](https://github.com/f/dahi) projes
 
 ### Kullanım
 ```
-let ornek = "Herşey güzel olacak";
-split(ornek);
+split(param);
 ```
 
 ### Örnek Kullanım
