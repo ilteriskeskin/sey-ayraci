@@ -5,7 +5,7 @@ Aslında bu proje Fatih Kadir Akın'ın [dahi](https://github.com/f/dahi) projes
 
 Bu proje rootcf tarafından, Ali İlteriş Keskin([ilteriskeskin](https://github.com/ilteriskeskin)) tarafından yapılan "Şey" ayracının NodeJS(npm) gerektirmeyen, html sayfalarında kullanılabilecek bir versiyonudur.
 
-Şey zamirinin ayırmaya yaramaktadır.
+Şey zamirini ayırmaya yaramaktadır.
 
 ### Kullanım
 ```
