@@ -20,5 +20,8 @@ let ornek = "Herşey güzel olacak.";
 console.log(split(ornek));
 ```
 
+### Test Edin
+[Website](http://rootie.cf/p/sey-ayirma/index.html)
+
 
 
