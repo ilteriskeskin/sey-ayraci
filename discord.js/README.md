@@ -1,4 +1,5 @@
 ![ornek](https://cdn.discordapp.com/attachments/924773509262110801/927007876407504896/seybot.PNG)
+
 **:warning: Bu proje şaka amaçlıdır ama yer yer işe yarayabilir. :warning:**
 
 Aslında bu proje Fatih Kadir Akın'ın [dahi](https://github.com/f/dahi) projesinden esinlenerek ortaya çıkmıştır.
@@ -7,7 +8,7 @@ Aslında bu proje Fatih Kadir Akın'ın [dahi](https://github.com/f/dahi) projes
 Bu proje rootcf tarafından, Ali İlteriş Keskin([ilteriskeskin](https://github.com/ilteriskeskin)) tarafından yapılan "Şey" ayracının Discord Botları için yapılmış bir versiyonudur.
 Sadece V13 botlarda çalışır. Eğer kullanıcı 'şey' kelimesini birleşik yazdığında kullanıcıyı uyarır.
 
-### Ana Dosyasının (main ya da index.js) içine;
+### Ana Dosyanın (main ya da index.js) içine;
 ```javascript
 client.on("messageCreate", async message => {
 
