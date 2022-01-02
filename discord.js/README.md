@@ -6,7 +6,7 @@ Aslında bu proje Fatih Kadir Akın'ın [dahi](https://github.com/f/dahi) projes
 ---
 
 Bu proje rootcf tarafından, Ali İlteriş Keskin([ilteriskeskin](https://github.com/ilteriskeskin)) tarafından yapılan "Şey" ayracının Discord Botları için yapılmış bir versiyonudur.
-Sadece V13 botlarda çalışır. Eğer kullanıcı 'şey' kelimesini birleşik yazdığında kullanıcıyı uyarır.
+Sadece V13 botlarda çalışır. Eğer kullanıcı 'şey' kelimesini birleşik yazarsa kullanıcıyı uyarır.
 
 ### Ana Dosyanın (main ya da index.js) içine;
 ```javascript
