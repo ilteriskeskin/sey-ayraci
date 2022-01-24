@@ -6,7 +6,7 @@ Aslında bu proje Fatih Kadir Akın'ın [dahi](https://github.com/f/dahi) projes
 
 ---
 
-Şey zamirinin ayırmaya yaramaktadır.
+Şey zamirini ayırmaya yaramaktadır.
 
 ### Yükleme
 
